@@ -1,0 +1,240 @@
+a:2:{s:6:"expire";i:1574230502;s:7:"headers";a:0:{}}ENDCI---><!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="http://www.adsale.pl/bazaperfum/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://www.adsale.pl/bazaperfum/css/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    
+    <script type="text/javascript" src="http://www.adsale.pl/bazaperfum/js/jquery-3.4.1.min.js"></script>
+    <title>Adidas</title>
+  </head>
+<body>
+	<!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark static-top navigation-top">
+
+    	<div class="container">
+    		<a class="navbar-brand" href="#">Perfume Base <i class="fas fa-database"></i></a>
+    		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    			<span class="navbar-toggler-icon"></span>
+    		</button>
+    		<div class="align-center collapse navbar-collapse" id="navbarResponsive">
+    			<ul class="navbar-nav ml-auto">
+    				<li class="nav-item active"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/">Home<span class="sr-only">(current)</span></a></li>
+            <li class="nav-item"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/database/products">Perfumy</a></li>
+    				<li class="nav-item"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/database/brands">Marki perfum</a></li>
+    				<li class="nav-item"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/database/authors">Autorzy perfum</a></li>
+    				<li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+    			</ul>
+    		</div>
+    	</div>
+    	<div class="d-inline p-2 bg-white text-dark"><small>Niezalogowany! (<a href="http://www.adsale.pl/bazaperfum/user/login/">Zaloguj się</a> | <a href="http://www.adsale.pl/bazaperfum/user/add_user">Rejestracja</a></small></div>
+    </nav>
+    <!-- Page Content -->
+    <div class="container">
+    	<h1 class="my-3">Adidas</h1>
+
+<div class="row">
+	<div class="col-md-12">
+		Jest dostępnych wiele różnych wersji Lorem Ipsum, ale większość zmieniła się pod wpływem dodanego humoru czy przypadkowych słów, które nawet w najmniejszym stopniu nie przypominają istniejących. Jeśli masz zamiar użyć fragmentu Lorem Ipsum, lepiej mieć pewność, że nie ma niczego ?dziwnego? w środku tekstu. Wszystkie Internetowe generatory Lorem Ipsum mają tendencje do kopiowania już istniejących bloków, co czyni nasz pierwszym prawdziwym generatorem w Internecie.	</div>
+</div>
+<hr>
+<div class="row">
+	<div class="col-md-6">
+		<h3>Lista perfum marki Adidas</h3> Znaleziono 37 produktów.
+	</div>
+	<div class="col-md-6 text-right">
+		<nav aria-label="Page navigation example">
+			<ul class="pagination justify-content-center">
+				<a href="http://www.adsale.pl/bazaperfum/database/brand/5/" class="page-link" style="display:inline" data-ci-pagination-page="1" rel="prev">&lt;</a><a href="http://www.adsale.pl/bazaperfum/database/brand/5/" class="page-link" style="display:inline" data-ci-pagination-page="1" rel="start">1</a><li class="page-link" aria-current="page" style="background-color: #c03a5e; color: #ffffff"><b>2</b></li><a href="http://www.adsale.pl/bazaperfum/database/brand/5/20" class="page-link" style="display:inline" data-ci-pagination-page="3">3</a><a href="http://www.adsale.pl/bazaperfum/database/brand/5/30" class="page-link" style="display:inline" data-ci-pagination-page="4">4</a><a href="http://www.adsale.pl/bazaperfum/database/brand/5/20" class="page-link" style="display:inline" data-ci-pagination-page="3" rel="next">&gt;</a>			</ul>
+		</nav>
+	</div>
+</div>
+<hr>
+<div class="row">
+	<div class="col-md-3"> Fitry i takie tam:</div>
+	<div class="col-md-9">
+
+		
+		<div class="row">
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/1020-adidas-fizzy-energy.jpg"  style="width:150px" class="card-img" alt="1020-adidas-fizzy-energy">				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a class="product-link" href="http://www.adsale.pl/bazaperfum/database/product/918">Adidas Fizzy Energy </a></h3>
+					<p class="card-text"><small class="text-muted">woda toaletowa (EDT)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/918" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/1021-adidas-get-ready-for-her.jpg"  style="width:150px" class="card-img" alt="1021-adidas-get-ready-for-her">				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a class="product-link" href="http://www.adsale.pl/bazaperfum/database/product/919">Adidas Get Ready For Her </a></h3>
+					<p class="card-text"><small class="text-muted">woda toaletowa (EDT)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/919" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/1022-adidas-get-ready-for-him.jpg"  style="width:150px" class="card-img" alt="1022-adidas-get-ready-for-him">				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a class="product-link" href="http://www.adsale.pl/bazaperfum/database/product/920">Adidas Get Ready For Him</a></h3>
+					<p class="card-text"><small class="text-muted">woda toaletowa (EDT)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/920" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/1023-adidas-extreme-power.jpg"  style="width:150px" class="card-img" alt="1023-adidas-extreme-power">				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a class="product-link" href="http://www.adsale.pl/bazaperfum/database/product/921">Adidas Extreme Power</a></h3>
+					<p class="card-text"><small class="text-muted">woda toaletowa (EDT)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/921" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/2551-adidas-active-bodies.jpg"  style="width:150px" class="card-img" alt="2551-adidas-active-bodies">				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a class="product-link" href="http://www.adsale.pl/bazaperfum/database/product/2222">Adidas Active Bodies</a></h3>
+					<p class="card-text"><small class="text-muted">woda toaletowa (EDT)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/2222" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/2691-adidas-born-original-today-for-him.jpg"  style="width:150px" class="card-img" alt="2691-adidas-born-original-today-for-him">				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a class="product-link" href="http://www.adsale.pl/bazaperfum/database/product/2306">Adidas Born Original Today for Him</a></h3>
+					<p class="card-text"><small class="text-muted">woda toaletowa (EDT)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/2306" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/2692-adidas-born-original-today-for-him.jpg"  style="width:150px" class="card-img" alt="2692-adidas-born-original-today-for-him">				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a class="product-link" href="http://www.adsale.pl/bazaperfum/database/product/2306">Adidas Born Original Today for Him</a></h3>
+					<p class="card-text"><small class="text-muted">woda toaletowa (EDT)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/2306" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/2693-adidas-born-original-today-for-him.jpg"  style="width:150px" class="card-img" alt="2693-adidas-born-original-today-for-him">				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a class="product-link" href="http://www.adsale.pl/bazaperfum/database/product/2306">Adidas Born Original Today for Him</a></h3>
+					<p class="card-text"><small class="text-muted">woda toaletowa (EDT)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/2306" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/2694-adidas-born-original-today-for-him.jpg"  style="width:150px" class="card-img" alt="2694-adidas-born-original-today-for-him">				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a class="product-link" href="http://www.adsale.pl/bazaperfum/database/product/2306">Adidas Born Original Today for Him</a></h3>
+					<p class="card-text"><small class="text-muted">woda toaletowa (EDT)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/2306" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/2695-adidas-born-original-today-for-him.jpg"  style="width:150px" class="card-img" alt="2695-adidas-born-original-today-for-him">				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a class="product-link" href="http://www.adsale.pl/bazaperfum/database/product/2306">Adidas Born Original Today for Him</a></h3>
+					<p class="card-text"><small class="text-muted">woda toaletowa (EDT)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/2306" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+					</div>
+		<hr>
+		<nav aria-label="Page navigation example">
+			<ul class="pagination justify-content-center">
+				<a href="http://www.adsale.pl/bazaperfum/database/brand/5/" class="page-link" style="display:inline" data-ci-pagination-page="1" rel="prev">&lt;</a><a href="http://www.adsale.pl/bazaperfum/database/brand/5/" class="page-link" style="display:inline" data-ci-pagination-page="1" rel="start">1</a><li class="page-link" aria-current="page" style="background-color: #c03a5e; color: #ffffff"><b>2</b></li><a href="http://www.adsale.pl/bazaperfum/database/brand/5/20" class="page-link" style="display:inline" data-ci-pagination-page="3">3</a><a href="http://www.adsale.pl/bazaperfum/database/brand/5/30" class="page-link" style="display:inline" data-ci-pagination-page="4">4</a><a href="http://www.adsale.pl/bazaperfum/database/brand/5/20" class="page-link" style="display:inline" data-ci-pagination-page="3" rel="next">&gt;</a>			</ul>
+		</nav>
+		
+	</div>
+</div>    </div>
+    <div class="container mt-3">
+          </div>
+
+    <footer class="footer mt-5 py-3">
+      <div class="container">
+        <span class="text-muted">Narazie budujemy. Masz sprawę pisz: dabrowskiw [at] gmail.com</span>
+      </div>
+    </footer>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="http://www.adsale.pl/bazaperfum/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://www.adsale.pl/bazaperfum/js/jquery-3.4.1.min.js"></script>
+</body>
+</html>

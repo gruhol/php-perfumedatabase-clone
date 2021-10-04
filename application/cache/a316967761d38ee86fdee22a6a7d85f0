@@ -1,0 +1,357 @@
+a:2:{s:6:"expire";i:1574230167;s:7:"headers";a:0:{}}ENDCI---><!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="http://www.adsale.pl/bazaperfum/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://www.adsale.pl/bazaperfum/css/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    
+    <script type="text/javascript" src="http://www.adsale.pl/bazaperfum/js/jquery-3.4.1.min.js"></script>
+    <title>Antonio Banderas Play In Blue Seduction woda toaletowa (Męski)</title>
+  </head>
+<body>
+	<!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark static-top navigation-top">
+
+    	<div class="container">
+    		<a class="navbar-brand" href="#">Perfume Base <i class="fas fa-database"></i></a>
+    		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    			<span class="navbar-toggler-icon"></span>
+    		</button>
+    		<div class="align-center collapse navbar-collapse" id="navbarResponsive">
+    			<ul class="navbar-nav ml-auto">
+    				<li class="nav-item active"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/">Home<span class="sr-only">(current)</span></a></li>
+            <li class="nav-item"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/database/products">Perfumy</a></li>
+    				<li class="nav-item"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/database/brands">Marki perfum</a></li>
+    				<li class="nav-item"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/database/authors">Autorzy perfum</a></li>
+    				<li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+    			</ul>
+    		</div>
+    	</div>
+    	<div class="d-inline p-2 bg-white text-dark"><small>Niezalogowany! (<a href="http://www.adsale.pl/bazaperfum/user/login/">Zaloguj się</a> | <a href="http://www.adsale.pl/bazaperfum/user/add_user">Rejestracja</a></small></div>
+    </nav>
+    <!-- Page Content -->
+    <div class="container">
+    	<h1 class="my-3">Antonio Banderas Play In Blue Seduction</h1>
+<h3>woda toaletowa (EDT)</h3>
+<div>Ocena użytkowników: <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> (5 / 5)</div>
+<div class="row">
+	<div class="col-md-5">
+		<img src="http://www.adsale.pl/bazaperfum/img/products/no-photo.png" class="img-fluid" alt="">	</div>
+	<div class="col-md-7">
+
+		<h3>Statystyki produktu:</h3>
+		<div class="row">
+			<div class="col-md-4">
+				<button type="button" class="btn btn-info">
+					Kocham <span id="intlove" class="badge badge-light">0</span>
+				</button>
+			</div>
+			<div class="col-md-4">
+				<button type="button" class="btn btn-info">
+					Lubię <span id="intlike" class="badge badge-light">0</span>
+				</button>
+			</div>
+			<div class="col-md-4">
+				<button type="button" class="btn btn-info">
+					Nie lubię <span id="intdislike" class="badge badge-light">0</span>
+				</button>
+			</div>
+		</div>
+				<hr>
+		<div class="row">
+			<div class="col-md-4">
+				<button type="button" class="btn btn-info">
+					Mam <span id="intihave" class="badge badge-light">0</span>
+				</button>
+			</div>
+			<div class="col-md-4">
+				<button type="button" class="btn btn-info">
+					Miałem <span id="intihad" class="badge badge-light">0</span>
+				</button>
+			</div>
+			<div class="col-md-4">
+				<button type="button" class="btn btn-info">
+					Chciałbym mieć <span id="intiwant" class="badge badge-light">0</span>
+				</button>
+			</div>
+		</div>
+
+				<hr>
+		<div class="row">
+			<div class="col-md-3">
+				<button type="button" class="btn btn-info">
+					Zima <span id="intwinter" class="badge badge-light">0</span>
+				</button>
+			</div>
+			<div class="col-md-3">
+				<button type="button" class="btn btn-info">
+					Wiosna <span id="intspring" class="badge badge-light">0</span>
+				</button>
+			</div>
+			<div class="col-md-3">
+				<button type="button" class="btn btn-info">
+					Lato <span id="intsummer" class="badge badge-light">0</span>
+				</button>
+			</div>
+			<div class="col-md-3">
+				<button type="button" class="btn btn-info">
+					Jesień <span id="intautumn" class="badge badge-light">0</span>
+				</button>
+			</div>
+
+		</div>
+
+				<hr>
+		<div class="row">
+			<div class="col-md-6"><div class="alert alert-success">Dzień: <span id="intday">0</span></div></div>
+			<div class="col-md-6"><div class="alert alert-success">Wieczór: <span id="intnight">0</span></div></div>
+		</div>
+			</div>
+</div>
+<hr>
+<div class="row">
+	<div class="col-md-6">
+		<p>Play In Blue Seduction to woda toaletowa od marki Antonio Banderas. Jest to drzewno-przyprawowy zapach, który powstał w 2017 roku. Zapach, który uwydatnia silną, męską osobowość.   Nuty zapachowe:  Nuta głowy: bergamotka, melon, cytrusy Nuta serca: gałka muszkatołowa, kardamon, mięta Nuta bazy: mech, piżmo, ambra, drzewo sandałowe, cedr </p>
+	</div>
+
+	<div class="col-md-6">
+		<div class="card">
+		  <div class="card-body">
+			<table class="table table-striped">
+			  <thead>
+			    <tr>
+			      <th scope="col">Pojemność</th>
+			      <th scope="col">EAN</th>
+			    </tr>
+			  </thead>
+			  <tbody>
+				
+				<tr><td>100ml</td><td>8411061854884</td></tr>			  </tbody>
+			</table>
+		  </div>
+		</div>
+
+	</div>
+</div>
+<hr>
+<div class="row">
+	<div class="col-md-8">
+		<div class="row">
+			<div class="col-md-8">
+				<div class="card">
+				  <div class="card-body">
+					<h5>Skład:</h5>
+					<hr>
+					<h6>Głowa</h6>
+
+					<p>
+						<div class="btn-group m-2"><button type="button" class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">cedr</button><div class="dropdown-menu p-3 form-vote-note shadow p-3 rounded"><div class="row"><h5 class="p-2">Oceń moc składnika:</h5><div class="col-sm-12">Aby zagłosować musisz być zalogowany.</div></div></div></div><div class="btn-group m-2"><button type="button" class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">drzewo sandałowe</button><div class="dropdown-menu p-3 form-vote-note shadow p-3 rounded"><div class="row"><h5 class="p-2">Oceń moc składnika:</h5><div class="col-sm-12">Aby zagłosować musisz być zalogowany.</div></div></div></div><div class="btn-group m-2"><button type="button" class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">ambra</button><div class="dropdown-menu p-3 form-vote-note shadow p-3 rounded"><div class="row"><h5 class="p-2">Oceń moc składnika:</h5><div class="col-sm-12">Aby zagłosować musisz być zalogowany.</div></div></div></div><div class="btn-group m-2"><button type="button" class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">piżmo</button><div class="dropdown-menu p-3 form-vote-note shadow p-3 rounded"><div class="row"><h5 class="p-2">Oceń moc składnika:</h5><div class="col-sm-12">Aby zagłosować musisz być zalogowany.</div></div></div></div><div class="btn-group m-2"><button type="button" class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">mech</button><div class="dropdown-menu p-3 form-vote-note shadow p-3 rounded"><div class="row"><h5 class="p-2">Oceń moc składnika:</h5><div class="col-sm-12">Aby zagłosować musisz być zalogowany.</div></div></div></div>					</p>
+					
+					<h6>Podstawa:</h6>
+					
+					<p>
+						<div class="btn-group m-2"><button type="button" class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">cytrusy</button><div class="dropdown-menu p-3 form-vote-note shadow p-3 rounded"><div class="row"><h5 class="p-2">Oceń moc składnika:</h5><div class="col-sm-12">Aby zagłosować musisz być zalogowany.</div></div></div></div><div class="btn-group m-2"><button type="button" class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">melon</button><div class="dropdown-menu p-3 form-vote-note shadow p-3 rounded"><div class="row"><h5 class="p-2">Oceń moc składnika:</h5><div class="col-sm-12">Aby zagłosować musisz być zalogowany.</div></div></div></div><div class="btn-group m-2"><button type="button" class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">bergamotka</button><div class="dropdown-menu p-3 form-vote-note shadow p-3 rounded"><div class="row"><h5 class="p-2">Oceń moc składnika:</h5><div class="col-sm-12">Aby zagłosować musisz być zalogowany.</div></div></div></div>					</p>
+					<h6>Serce:</h6>
+					
+					<p>
+						<div class="btn-group m-2"><button type="button" class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">mięta</button><div class="dropdown-menu p-3 form-vote-note shadow p-3 rounded"><div class="row"><h5 class="p-2">Oceń moc składnika:</h5><div class="col-sm-12">Aby zagłosować musisz być zalogowany.</div></div></div></div><div class="btn-group m-2"><button type="button" class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">kardamon</button><div class="dropdown-menu p-3 form-vote-note shadow p-3 rounded"><div class="row"><h5 class="p-2">Oceń moc składnika:</h5><div class="col-sm-12">Aby zagłosować musisz być zalogowany.</div></div></div></div><div class="btn-group m-2"><button type="button" class="btn btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">gałka muszkatołowa</button><div class="dropdown-menu p-3 form-vote-note shadow p-3 rounded"><div class="row"><h5 class="p-2">Oceń moc składnika:</h5><div class="col-sm-12">Aby zagłosować musisz być zalogowany.</div></div></div></div>					</p>
+					
+
+
+				  </div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="card">
+				  <div class="card-body">
+					<h5>Zapach według użytkowników</h5>
+					<hr>
+					<div id="ranking">
+					Brak głosów użytkowników.					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+	</div>
+	<div class="col-md-4">
+		<div class="card">
+		  <div class="card-body">
+		    <table class="table table-striped">
+			  <tbody>
+			    <tr>
+			      <td>Marka</td>
+			      <td scope="row">Antonio Banderas</td>
+			    </tr>
+			    <tr>
+			      <td>Autor</td>
+			      <td scope="row">Brak danych</td>
+			    </tr>
+			    <tr>
+			      <td>Data premiery</td>
+			      <td scope="row">2000</td>
+			    </tr>
+			    <tr>
+			      <td>Płeć</td>
+			      <td scope="row">Męski</td>
+			    </tr>
+			    <tr>
+			      <td>Rodzaj zapachu</td>
+			      <td scope="row">woda toaletowa</td>
+			    </tr>
+			  </tbody>
+			</table>
+
+		  </div>
+		</div>
+	</div>
+</div>
+
+<hr>
+
+
+
+<script type="text/javascript">
+
+	$(document).ready(function(){
+
+		$('input.form-user-note-vote').change(function() {
+			if ($(this).is(':checked')) {
+				var vote_value = $(this).val();
+				var id_note = $(this).attr('id');
+			}
+			$.ajax ({
+				url: "http://www.adsale.pl/bazaperfum/database/save_vote_note/",
+				type: "POST",
+				data: {id_note: id_note, vote_value: vote_value, id_product: 12},
+				dataType: 'json',
+				success: function(data) {
+					var idInfoName = "#success-info-vote-note-" + id_note;
+					$(idInfoName).fadeIn('xfast', function(){
+						$(idInfoName).delay(1000).fadeOut();
+					});
+					
+					var str = "";
+					data.value.forEach(function(format) {               
+						str+= '<button type="button" class="btn btn-info m-1"><small>';
+						str+= format.name_note + '</small> <span class="badge badge-light">';
+						str+= format.total_value + '</span></button>';             
+					});
+					$("div#ranking").html(str);
+				},
+				error: function() {
+					var idInfoName = "#false-info-vote-note-" + id_note;
+					$(idInfoName).fadeIn('xfast', function(){
+						$(idInfoName).delay(1000).fadeOut();
+					});
+				},
+			});
+		})
+
+		$('input#ihave, input#season, input#daynight').change(
+				function () {
+						if ($(this).is(':checked')) {
+								var vote = $(this).val();
+								var value = 1;
+						} else if ($(this).not(':checked')) {
+								var vote = $(this).val();
+								var value = 0;
+						}
+						$.ajax ({
+							url: "http://www.adsale.pl/bazaperfum/database/savevote",
+							type: "POST",
+							data: {vote: vote, value: value, id_product: 12},
+							dataType: 'json',
+							success: function(data) {
+								if (data.status)
+								{
+									if ((vote == 'ihave') || (vote == 'ihad') || (vote == 'iwant')) {
+										$('#successMessage2').fadeIn('xfast', function(){
+											$('#successMessage2').delay(1000).fadeOut();
+										});
+
+									}
+
+									if ((vote == 'winter') || (vote == 'spring') || (vote == 'summer') || (vote == 'autumn')) {
+										$('#successMessage3').fadeIn('xfast', function(){
+											$('#successMessage3').delay(1000).fadeOut();
+										});
+									}
+
+									if ((vote == 'day') || (vote == 'night')) {
+										$('#successMessage4').fadeIn('xfast', function(){
+											$('#successMessage4').delay(1000).fadeOut();
+										});
+									}
+									var id 	 = 12;
+									$.ajax ({
+										url: "http://www.adsale.pl/bazaperfum/database/get_vote_stat",
+										type: "POST",
+										data: {
+											vote: vote, 
+											id: id
+										},
+										dataType: 'json',
+										success: function(data) {
+												var ddd = "#int" + vote;
+												$(ddd).html(data.value);
+										},
+										error: function() {
+
+										},
+									});
+
+								}
+							},
+							error: function() {
+								if ((vote == 'ihave') || (vote == 'ihad') || (vote == 'iwant')) {
+									$('#falseMessage2').fadeIn('xfast', function(){
+										$('#falseMessage2').delay(1000).fadeOut();
+									});
+								}
+
+								if ((vote == 'winter') || (vote == 'spring') || (vote == '$summer') || (vote == 'autumn')) {
+									$('#falseMessage3').fadeIn('xfast', function(){
+										$('#falseMessage3').delay(1000).fadeOut();
+									});
+								}
+
+								if ((vote == 'day') || (vote == 'night')) {
+									$('#falseMessage4').fadeIn('xfast', function(){
+										$('#falseMessage4').delay(1000).fadeOut();
+									});
+								}
+							},
+						});
+		});
+	});
+</script>    </div>
+    <div class="container mt-3">
+      <div class="row">
+	<div class="col-md-12">
+            <h2>Opinie użytkowników: </h2>
+            Brak recenzji użytkowników.            </div>
+        </div>
+    </div>
+</div>
+    </div>
+
+    <footer class="footer mt-5 py-3">
+      <div class="container">
+        <span class="text-muted">Narazie budujemy. Masz sprawę pisz: dabrowskiw [at] gmail.com</span>
+      </div>
+    </footer>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="http://www.adsale.pl/bazaperfum/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://www.adsale.pl/bazaperfum/js/jquery-3.4.1.min.js"></script>
+</body>
+</html>

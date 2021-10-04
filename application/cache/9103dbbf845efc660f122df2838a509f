@@ -1,0 +1,235 @@
+a:2:{s:6:"expire";i:1574254035;s:7:"headers";a:0:{}}ENDCI---><!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="http://www.adsale.pl/bazaperfum/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://www.adsale.pl/bazaperfum/css/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    
+    <script type="text/javascript" src="http://www.adsale.pl/bazaperfum/js/jquery-3.4.1.min.js"></script>
+    <title>Produkty</title>
+  </head>
+<body>
+	<!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark static-top navigation-top">
+
+    	<div class="container">
+    		<a class="navbar-brand" href="#">Perfume Base <i class="fas fa-database"></i></a>
+    		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    			<span class="navbar-toggler-icon"></span>
+    		</button>
+    		<div class="align-center collapse navbar-collapse" id="navbarResponsive">
+    			<ul class="navbar-nav ml-auto">
+    				<li class="nav-item active"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/">Home<span class="sr-only">(current)</span></a></li>
+            <li class="nav-item"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/database/products">Perfumy</a></li>
+    				<li class="nav-item"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/database/brands">Marki perfum</a></li>
+    				<li class="nav-item"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/database/authors">Autorzy perfum</a></li>
+    				<li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+    			</ul>
+    		</div>
+    	</div>
+    	<div class="d-inline p-2 bg-white text-dark"><small>Niezalogowany! (<a href="http://www.adsale.pl/bazaperfum/user/login/">Zaloguj się</a> | <a href="http://www.adsale.pl/bazaperfum/user/add_user">Rejestracja</a></small></div>
+    </nav>
+    <!-- Page Content -->
+    <div class="container">
+    	<h3>Lista produktów</h3>
+		<hr>
+<div class="row">
+	<div class="col-md-3"> Fitry i takie tam:</div>
+	<div class="col-md-9">
+
+		
+		<div class="row">
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/162-banana-republic-modern-woman.jpg" style="width:150px" class="card-img" alt="162-banana-republic-modern-woman">
+				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a href="http://www.adsale.pl/bazaperfum/database/product/150">Banana Republic Modern Woman</a></h3>
+					<p class="card-text"><small class="text-muted">woda perfumowana (EDP)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/150" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/163-banana-republic-modern-woman.jpg" style="width:150px" class="card-img" alt="163-banana-republic-modern-woman">
+				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a href="http://www.adsale.pl/bazaperfum/database/product/150">Banana Republic Modern Woman</a></h3>
+					<p class="card-text"><small class="text-muted">woda perfumowana (EDP)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/150" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/165-banana-republic-modern-man.jpg" style="width:150px" class="card-img" alt="165-banana-republic-modern-man">
+				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a href="http://www.adsale.pl/bazaperfum/database/product/151">Banana Republic Modern Man</a></h3>
+					<p class="card-text"><small class="text-muted">woda toaletowa (EDT)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/151" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/164-banana-republic-modern-man.jpg" style="width:150px" class="card-img" alt="164-banana-republic-modern-man">
+				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a href="http://www.adsale.pl/bazaperfum/database/product/151">Banana Republic Modern Man</a></h3>
+					<p class="card-text"><small class="text-muted">woda toaletowa (EDT)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/151" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/166-jimmy-choo-illicit-flower.JPG" style="width:150px" class="card-img" alt="166-jimmy-choo-illicit-flower">
+				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a href="http://www.adsale.pl/bazaperfum/database/product/152">Jimmy Choo Illicit Flower</a></h3>
+					<p class="card-text"><small class="text-muted">woda toaletowa (EDT)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/152" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/167-mont-blanc-lady-emblem-elixir.jpg" style="width:150px" class="card-img" alt="167-mont-blanc-lady-emblem-elixir">
+				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a href="http://www.adsale.pl/bazaperfum/database/product/153">Mont Blanc Lady Emblem Elixir</a></h3>
+					<p class="card-text"><small class="text-muted">woda perfumowana (EDP)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/153" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/168-yves-saint-laurent-opium-black-glowing-pour-femme.jpg" style="width:150px" class="card-img" alt="168-yves-saint-laurent-opium-black-glowing-pour-femme">
+				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a href="http://www.adsale.pl/bazaperfum/database/product/154">Yves Saint Laurent Opium Black Glowing Pour Femme</a></h3>
+					<p class="card-text"><small class="text-muted">woda toaletowa (EDT)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/154" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/169-abercrombie-amp-fitch-first-instinct-woman.jpg" style="width:150px" class="card-img" alt="169-abercrombie-amp-fitch-first-instinct-woman">
+				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a href="http://www.adsale.pl/bazaperfum/database/product/155">Abercrombie&Fitch First Instinct Woman</a></h3>
+					<p class="card-text"><small class="text-muted">woda perfumowana (EDP)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/155" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/170-abercrombie-amp-fitch-first-instinct-woman.jpg" style="width:150px" class="card-img" alt="170-abercrombie-amp-fitch-first-instinct-woman">
+				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a href="http://www.adsale.pl/bazaperfum/database/product/155">Abercrombie&Fitch First Instinct Woman</a></h3>
+					<p class="card-text"><small class="text-muted">woda perfumowana (EDP)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/155" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="card mb-3 col-md-12">
+			<div class="row no-gutters">
+				<div class="col-md-3">
+				<img src="http://www.adsale.pl/bazaperfum/img/products/171-abercrombie-amp-fitch-first-instinct-woman.jpg" style="width:150px" class="card-img" alt="171-abercrombie-amp-fitch-first-instinct-woman">
+				</div>
+				<div class="col-md-9">
+				<div class="card-body">
+					<h3 class="card-title"><a href="http://www.adsale.pl/bazaperfum/database/product/155">Abercrombie&Fitch First Instinct Woman</a></h3>
+					<p class="card-text"><small class="text-muted">woda perfumowana (EDP)</small></p>
+					<a href="http://www.adsale.pl/bazaperfum/database/product/155" class="btn btn-secondary btn-sm">Zobacz produkt</a>
+				</div>
+				</div>
+			</div>
+			</div>
+		
+					</div>
+		<hr>
+		<nav aria-label="Page navigation example">
+			<ul class="pagination justify-content-center">
+				<a href="http://www.adsale.pl/bazaperfum/database/products" class="page-link" style="display:inline" data-ci-pagination-page="1" rel="start">&lsaquo; Pierwszy</a><a href="http://www.adsale.pl/bazaperfum/database/products/150" class="page-link" style="display:inline" data-ci-pagination-page="16" rel="prev">&lt;</a><a href="http://www.adsale.pl/bazaperfum/database/products/110" class="page-link" style="display:inline" data-ci-pagination-page="12">12</a><a href="http://www.adsale.pl/bazaperfum/database/products/120" class="page-link" style="display:inline" data-ci-pagination-page="13">13</a><a href="http://www.adsale.pl/bazaperfum/database/products/130" class="page-link" style="display:inline" data-ci-pagination-page="14">14</a><a href="http://www.adsale.pl/bazaperfum/database/products/140" class="page-link" style="display:inline" data-ci-pagination-page="15">15</a><a href="http://www.adsale.pl/bazaperfum/database/products/150" class="page-link" style="display:inline" data-ci-pagination-page="16">16</a><li class="page-link" aria-current="page" style="background-color: #c03a5e; color: #ffffff"><b>17</b></li><a href="http://www.adsale.pl/bazaperfum/database/products/170" class="page-link" style="display:inline" data-ci-pagination-page="18">18</a><a href="http://www.adsale.pl/bazaperfum/database/products/180" class="page-link" style="display:inline" data-ci-pagination-page="19">19</a><a href="http://www.adsale.pl/bazaperfum/database/products/190" class="page-link" style="display:inline" data-ci-pagination-page="20">20</a><a href="http://www.adsale.pl/bazaperfum/database/products/200" class="page-link" style="display:inline" data-ci-pagination-page="21">21</a><a href="http://www.adsale.pl/bazaperfum/database/products/210" class="page-link" style="display:inline" data-ci-pagination-page="22">22</a><a href="http://www.adsale.pl/bazaperfum/database/products/170" class="page-link" style="display:inline" data-ci-pagination-page="18" rel="next">&gt;</a><a href="http://www.adsale.pl/bazaperfum/database/products/6120" class="page-link" style="display:inline" data-ci-pagination-page="613">Ostatni &rsaquo;</a>			</ul>
+		</nav>
+		
+	</div>
+</div>
+
+    </div>
+    <div class="container mt-3">
+          </div>
+
+    <footer class="footer mt-5 py-3">
+      <div class="container">
+        <span class="text-muted">Narazie budujemy. Masz sprawę pisz: dabrowskiw [at] gmail.com</span>
+      </div>
+    </footer>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="http://www.adsale.pl/bazaperfum/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://www.adsale.pl/bazaperfum/js/jquery-3.4.1.min.js"></script>
+</body>
+</html>

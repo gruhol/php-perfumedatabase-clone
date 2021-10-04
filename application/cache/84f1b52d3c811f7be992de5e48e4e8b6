@@ -1,0 +1,71 @@
+a:2:{s:6:"expire";i:1574230533;s:7:"headers";a:0:{}}ENDCI---><!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="http://www.adsale.pl/bazaperfum/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://www.adsale.pl/bazaperfum/css/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    
+    <script type="text/javascript" src="http://www.adsale.pl/bazaperfum/js/jquery-3.4.1.min.js"></script>
+    <title>Marki perfum</title>
+  </head>
+<body>
+	<!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark static-top navigation-top">
+
+    	<div class="container">
+    		<a class="navbar-brand" href="#">Perfume Base <i class="fas fa-database"></i></a>
+    		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    			<span class="navbar-toggler-icon"></span>
+    		</button>
+    		<div class="align-center collapse navbar-collapse" id="navbarResponsive">
+    			<ul class="navbar-nav ml-auto">
+    				<li class="nav-item active"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/">Home<span class="sr-only">(current)</span></a></li>
+            <li class="nav-item"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/database/products">Perfumy</a></li>
+    				<li class="nav-item"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/database/brands">Marki perfum</a></li>
+    				<li class="nav-item"><a class="nav-link" href="http://www.adsale.pl/bazaperfum/database/authors">Autorzy perfum</a></li>
+    				<li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+    			</ul>
+    		</div>
+    	</div>
+    	<div class="d-inline p-2 bg-white text-dark"><small>Niezalogowany! (<a href="http://www.adsale.pl/bazaperfum/user/login/">Zaloguj się</a> | <a href="http://www.adsale.pl/bazaperfum/user/add_user">Rejestracja</a></small></div>
+    </nav>
+    <!-- Page Content -->
+    <div class="container">
+    	<h1 class="my-3">Marki perfum</h1>
+<div class="row">
+	<div class="col-md-12">
+		<nav aria-label="Page navigation example">
+			<ul class="pagination">
+			<li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/a">a</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/b">b</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/c">c</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/d">d</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/e">e</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/f">f</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/g">g</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/h">h</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/i">i</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/j">j</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/k">k</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/l">l</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/m">m</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/n">n</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/o">o</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/p">p</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/q">q</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/r">r</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/s">s</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/t">t</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/u">u</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/v">v</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/w">w</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/x">x</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/y">y</a></li><li class="page-item"><a class="page-link" href="http://www.adsale.pl/bazaperfum//database/brands/z">z</a></li>		  </ul>
+		</nav>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12">
+		<ul class="list-group">
+		<li class="list-group-item"><a href="http://www.adsale.pl/bazaperfum//database/brand/299" title="Zadig&Voltaire">Zadig&Voltaire</a></li><li class="list-group-item"><a href="http://www.adsale.pl/bazaperfum//database/brand/300" title="Zippo">Zippo</a></li><li class="list-group-item"><a href="http://www.adsale.pl/bazaperfum//database/brand/301" title="Zirh">Zirh</a></li><li class="list-group-item"><a href="http://www.adsale.pl/bazaperfum//database/brand/302" title="Zlatan Ibrahimović">Zlatan Ibrahimović</a></li>		</ul>
+	</div>
+</div>    </div>
+    <div class="container mt-3">
+          </div>
+
+    <footer class="footer mt-5 py-3">
+      <div class="container">
+        <span class="text-muted">Narazie budujemy. Masz sprawę pisz: dabrowskiw [at] gmail.com</span>
+      </div>
+    </footer>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="http://www.adsale.pl/bazaperfum/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://www.adsale.pl/bazaperfum/js/jquery-3.4.1.min.js"></script>
+</body>
+</html>
